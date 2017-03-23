@@ -1,0 +1,4 @@
+com\example\DeviceController.class
+com\example\DeviceRepository.class
+com\example\Device.class
+com\example\DeviceAppApplication.class
