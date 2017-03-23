@@ -4,7 +4,6 @@ spring:
     server:
       git:
         uri: https://github.com/kvajrmani123/MyRepo.git
-        search-paths: ConfigData
-
+      
 server:
   port: 9090
